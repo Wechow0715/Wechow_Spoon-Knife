@@ -1,0 +1,24 @@
+.para{
+    font-weight: bolder;
+    font-size:300%;
+}
+
+.small-para {
+    font-weight: bold;
+    font-size: 100%;
+}
+
+.confirm {
+    color: aliceblue;
+    font-weight: bold;
+    background-color: green;
+}
+
+.text{
+        font-size: 120%;
+}
+
+.child{
+    font-weight: bold;
+    font-size: 80%;
+}
