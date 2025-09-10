@@ -1,0 +1,29 @@
+h1{
+text-align: center;
+padding-bottom: 32px;
+}
+
+p {
+text-align: center;
+font-size: medium;
+font-weight: 400;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+div {
+    gap: 32px;
+}
+
+.info{
+    max-width: 200px;
+}
